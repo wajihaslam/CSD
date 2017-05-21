@@ -11,7 +11,7 @@ public class Test{
 		result = RPN.SimpleSum(resolveOperator);		
 		assertEquals(4,result);
 		
-		
+		/// just added the comments 
 		//fail("Not yet implemented");
 	}
 
